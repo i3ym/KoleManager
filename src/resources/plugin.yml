@@ -1,0 +1,7 @@
+main: ru.kolebality.kolemanager.KoleManager
+name: KoleManager
+version: 0.1
+author: i3ym
+api-version: 1.19
+
+depend: [CommandAPI]
